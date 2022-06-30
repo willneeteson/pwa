@@ -3,7 +3,7 @@
   "short_name": "Will Neeteson",
   "theme_color": "#000000",
   "background_color": "#2196f3",
-  "display": "minimal-ui",
+  "display": "standalone",
   "scope": "/",
-  "start_url": "/"
+  "start_url": "https://willneeteson.com"
 }
