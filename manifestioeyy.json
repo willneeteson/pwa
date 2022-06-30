@@ -1,10 +1,10 @@
 {
   "name": "Will Neeteson",
-  "short_name": "Willy",
+  "short_name": "Will",
   "theme_color": "#000000",
   "background_color": "#2196f3",
   "display": "standalone",
-  "start_url": "https://willneeteson.com",
+  "start_url": "/",
       "icons": [
         {
             "src": "/will_logo.png",
