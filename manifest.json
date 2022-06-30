@@ -1,7 +1,9 @@
-echo "# pwa" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/willneeteson/pwa.git
-git push -u origin main
+{
+  "name": "Will Neeteson",
+  "short_name": "Will Neeteson",
+  "theme_color": "#000000",
+  "background_color": "#2196f3",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/"
+}
