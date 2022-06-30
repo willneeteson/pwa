@@ -9,7 +9,8 @@
         {
             "src": "/will_logo.png",
             "sizes": "192x",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "maskable"
         },
         {
             "src": "/will_logo.png",
